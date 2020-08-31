@@ -26,3 +26,4 @@
 |[在线工具秘籍](https://github.com/zhaoolee/OnlineToolsBook)|GitHub仓库|从用户角度出发，「理想的工具应该是无需安装, 打开浏览器即可使用」 也就是所谓的在线工具。为在线工具写一本优质开源中文说明书, 让在线工具造福人类|
 |[谷粒-Chrome插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes)|GitHub仓库|🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~|
 |[鱼塘热榜](https://mo.fish/)|聚合网站|国内外各大热门网站的聚合信息，包括了知乎、微博、虎扑、V2EX、贴吧、Github、抖音、今日头条等等。|
+|程序员应该访问的最佳网站(https://github.com/sdmg15/Best-websites-a-programmer-should-visit)|GitHub仓库|一些对程序员有用的网站|
