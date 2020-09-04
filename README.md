@@ -33,4 +33,5 @@
 |[谷粒-Chrome插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes)|GitHub仓库|🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~|
 |[鱼塘热榜](https://mo.fish/)|聚合网站|国内外各大热门网站的聚合信息，包括了知乎、微博、虎扑、V2EX、贴吧、Github、抖音、今日头条等等。|
 |[程序员应该访问的最佳网站](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)|GitHub仓库|一些对程序员有用的网站|
+|[50 TECH WEBSITES TO FOLLOW IN 2020](https://get.tech/blog/50-tech-websites-to-follow-in-2020/#Best_websites_for_all_things_tech)||聚合网站|🐱‍🏍50个国外的技术网站，适合学习英文、了解国外先进技术|
 |[灵狐浏览器](https://ie.linkfoxvpn.com/#/)|跨境浏览器|经常访问外网且不想花钱的同学看过来👏。灵狐浏览器是一款多端（Windows、Android、IOS）通用跨境浏览器。当然，免费版本的速度不会太快，但是对于程序员来说，查一下资料还是完全无压力的。|
