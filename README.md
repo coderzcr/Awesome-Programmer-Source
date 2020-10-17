@@ -37,6 +37,7 @@
 |[50 TECH WEBSITES TO FOLLOW IN 2020](https://get.tech/blog/50-tech-websites-to-follow-in-2020/#Best_websites_for_all_things_tech)|聚合网站|🐱‍🏍50个国外的技术网站，适合学习英文、了解国外先进技术|
 |[灵狐浏览器](https://ie.linkfoxvpn.com/#/)|跨境浏览器|经常访问外网且不想花钱的同学看过来👏。灵狐浏览器是一款多端（Windows、Android、IOS）通用跨境浏览器。当然，免费版本的速度不会太快，但是对于程序员来说，查一下资料还是完全无压力的。|
 |[华为开源镜像站](https://mirrors.huaweicloud.com/)|镜像网站|解决国外工具下载慢的问题，比如常用的Tomcat、nginx等。|
+|[idea永久激活](https://mp.weixin.qq.com/s/tK50KUP-DMkTHVjnIZ0BrA)|激活工具|永久激活Idea~支持2020 1.3以下|
 
 ## 综合
 |资源名称|资源分类|资源描述|
