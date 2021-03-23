@@ -43,7 +43,7 @@
 |[50 TECH WEBSITES TO FOLLOW IN 2020](https://get.tech/blog/50-tech-websites-to-follow-in-2020/#Best_websites_for_all_things_tech)|聚合网站|🐱‍🏍50个国外的技术网站，适合学习英文、了解国外先进技术|
 |[华为开源镜像站](https://mirrors.huaweicloud.com/)|镜像网站|解决国外工具下载慢的问题，比如常用的Tomcat、nginx等。|
 |[房贷计算器](http://www.baiozhuntuixing.com/)|工具|房贷计算器2021|
-
+|[excalidraw](https://excalidraw.com/)|工具|一个开源免费的画图软件|
 ## 综合
 |资源名称|资源分类|资源描述|
 |-|-|-|
