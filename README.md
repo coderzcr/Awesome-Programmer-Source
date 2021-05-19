@@ -51,3 +51,5 @@
 |[免费程序员书籍汇总](https://github.com/EbookFoundation/free-programming-books/)|GitHub仓库|提供免费的程序员书籍|
 |[经典的编程书单大全](https://github.com/imarvinle/awesome-cs-books/)|GitHub仓库|这里汇集如下主题的经典书籍： 编程语言(Java、C++、C、Python等等)、操作系统、计算机网络、系统架构、设计模式、程序员数学、测试、中间件、前端开发、后台开发、网络编程、Linux使用及内核、求职面试、**算法与数据结构**、 安卓、IOS、数据库、Redis等主流的编程学习书籍。|
 |[程序员超级清单](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)|GitHub仓库|从新手入门的通用工具、编码建议、代码训练，到进一步提升自己的论坛频道、网课推荐、编程比赛，甚至还有工作职位的相关链接。|
+|[可以拿来变现的小程序源码](https://github.com/JackonYang/list-of-wechat-mini-program-list)|GitHub仓库|可以拿来变现的小程序源码。|
+|[值得一看的好书](https://github.com/fuzhengwei/CodeGuide/wiki/%E5%80%BC%E5%BE%97%E4%B8%80%E7%9C%8B%E7%9A%84%E5%A5%BD%E4%B9%A6)|GitHub仓库|小傅哥倾情推荐。|
