@@ -6,7 +6,6 @@
 |资源名称|资源分类|资源描述|
 |-|-|-|
 |[LeetCode](https://leetcode-cn.com/)|刷题网站|刷题必备，学习算法没刷过LeetCode等于白学。|
-|算法图解|书籍|本书示例丰富，图文并茂，以简明易懂的方式阐释了算法，旨在帮助程序员在日常项目中更好地利用算法为软件开发助力。我非常喜欢的一本算法书，对我这种**算法小白**帮助很大。|
 |[一个月200题,命中80%,拿下BAT,我独特的高效刷题法](https://mp.weixin.qq.com/s/xr2abGNv8wDZJ-qyN4KewQ)|公众号文章|公众号**陈同学在搬砖**分享，号主硕士应届生，已获字节跳动、阿里巴巴、腾讯、华为offer，该文章详细介绍了刷题方法和步骤，并且指定了210道高频算法题，跟着大神走，offer不用愁👍|
 |[小浩算法](https://github.com/geekxh/hello-algorithm)|GitHub仓库|该仓库目前共完成 140+ 道高频面试算法题目，总计 30w 字，全部采用漫画图解的方式，简单易懂，适合初中级读者。|
 |[算法模板](https://github.com/greyireland/algorithm-pattern)|GitHub仓库|算法模板，最科学的刷题方式，最快速的刷题路径，一个月从入门到 offer，你值得拥有 🐶~|
@@ -49,6 +48,7 @@
 |资源名称|资源分类|资源描述|
 |-|-|-|
 |[免费程序员书籍汇总](https://github.com/EbookFoundation/free-programming-books/)|GitHub仓库|提供免费的程序员书籍|
+|[计算机书籍汇总](https://github.com/coderzcr/ComputerBooks)|GitHub仓库|提供免费的计算机书籍|
 |[经典的编程书单大全](https://github.com/imarvinle/awesome-cs-books/)|GitHub仓库|这里汇集如下主题的经典书籍： 编程语言(Java、C++、C、Python等等)、操作系统、计算机网络、系统架构、设计模式、程序员数学、测试、中间件、前端开发、后台开发、网络编程、Linux使用及内核、求职面试、**算法与数据结构**、 安卓、IOS、数据库、Redis等主流的编程学习书籍。|
 |[程序员超级清单](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)|GitHub仓库|从新手入门的通用工具、编码建议、代码训练，到进一步提升自己的论坛频道、网课推荐、编程比赛，甚至还有工作职位的相关链接。|
 |[可以拿来变现的小程序源码](https://github.com/JackonYang/list-of-wechat-mini-program-list)|GitHub仓库|可以拿来变现的小程序源码。|
