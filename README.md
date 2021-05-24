@@ -14,6 +14,7 @@
 
 ## 设计模式
 |资源名称|资源分类|资源描述|
+|-|-|-|
 |[设计模式](https://refactoringguru.cn/design-patterns)|教程网站|设计模式学习必备，通俗易懂|
 
 ## Java
