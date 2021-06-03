@@ -43,12 +43,9 @@
 |[在线工具秘籍](https://github.com/zhaoolee/OnlineToolsBook)|GitHub仓库|从用户角度出发，「理想的工具应该是无需安装, 打开浏览器即可使用」 也就是所谓的在线工具。为在线工具写一本优质开源中文说明书, 让在线工具造福人类|
 |[谷粒-Chrome插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes)|GitHub仓库|🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~|
 |[鱼塘热榜](https://mo.fish/)|聚合网站|国内外各大热门网站的聚合信息，包括了知乎、微博、虎扑、V2EX、贴吧、Github、抖音、今日头条等等。|
-|[程序员应该访问的最佳网站](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)|GitHub仓库|一些对程序员有用的网站|
-|[50 TECH WEBSITES TO FOLLOW IN 2020](https://get.tech/blog/50-tech-websites-to-follow-in-2020/#Best_websites_for_all_things_tech)|聚合网站|🐱‍🏍50个国外的技术网站，适合学习英文、了解国外先进技术|
 |[华为开源镜像站](https://mirrors.huaweicloud.com/)|镜像网站|解决国外工具下载慢的问题，比如常用的Tomcat、nginx等。|
 |[房贷计算器](http://www.baiozhuntuixing.com/)|工具|房贷计算器2021|
 |[excalidraw](https://excalidraw.com/)|工具|一个开源免费的画图软件|
-|[作为程序员，你关注哪些国外 IT 网站？](https://www.zhihu.com/question/26155575)|聚合网站|国外 IT 网站集合|
 ## 综合
 |资源名称|资源分类|资源描述|
 |-|-|-|
@@ -59,3 +56,6 @@
 |[程序员超级清单](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)|GitHub仓库|从新手入门的通用工具、编码建议、代码训练，到进一步提升自己的论坛频道、网课推荐、编程比赛，甚至还有工作职位的相关链接。|
 |[可以拿来变现的小程序源码](https://github.com/JackonYang/list-of-wechat-mini-program-list)|GitHub仓库|可以拿来变现的小程序源码。|
 |[值得一看的好书](https://github.com/fuzhengwei/CodeGuide/wiki/%E5%80%BC%E5%BE%97%E4%B8%80%E7%9C%8B%E7%9A%84%E5%A5%BD%E4%B9%A6)|GitHub仓库|小傅哥倾情推荐。|
+|[程序员应该访问的最佳网站](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)|GitHub仓库|一些对程序员有用的网站|
+|[50 TECH WEBSITES TO FOLLOW IN 2020](https://get.tech/blog/50-tech-websites-to-follow-in-2020/#Best_websites_for_all_things_tech)|聚合网站|🐱‍🏍50个国外的技术网站，适合学习英文、了解国外先进技术|
+|[作为程序员，你关注哪些国外 IT 网站？](https://www.zhihu.com/question/26155575)|聚合网站|国外 IT 网站集合|
