@@ -17,6 +17,11 @@
 |-|-|-|
 |[设计模式](https://refactoringguru.cn/design-patterns)|教程网站|设计模式学习必备，通俗易懂|
 
+## 架构
+|资源名称|资源分类|资源描述|
+|-|-|-|
+|畅谈云原生|云原生|[畅谈云原生（上）：云原生应用应该是什么样子？](https://www.infoq.cn/article/fa42rfjv*dygavranfqe)<br>[畅谈云原生（下）：云原生的飞轮理论](https://www.infoq.cn/article/HMizcSG_FgcJKGzkE08L)|
+
 ## Java
 |资源名称|资源分类|资源描述|
 |-|-|-|
