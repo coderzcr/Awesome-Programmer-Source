@@ -22,6 +22,8 @@
 |资源名称|资源分类|资源描述|
 |-|-|-|
 |畅谈云原生|云原生|[畅谈云原生（上）：云原生应用应该是什么样子？](https://www.infoq.cn/article/fa42rfjv*dygavranfqe)<br>[畅谈云原生（下）：云原生的飞轮理论](https://www.infoq.cn/article/HMizcSG_FgcJKGzkE08L)|
+|[后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)|聚合|后端架构师技术图谱|
+
 
 ## Java
 |资源名称|资源分类|资源描述|
