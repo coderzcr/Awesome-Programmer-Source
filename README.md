@@ -52,6 +52,8 @@
 |[华为开源镜像站](https://mirrors.huaweicloud.com/)|镜像网站|解决国外工具下载慢的问题，比如常用的Tomcat、nginx等。|
 |[房贷计算器](http://www.baiozhuntuixing.com/)|工具|房贷计算器2021|
 |[excalidraw](https://excalidraw.com/)|工具|一个开源免费的画图软件|
+|[课程搜](https://www.kcsou.com/)|课程聚合|搜课程，搜教程，就来 "课程搜" -- 在线搜课神器|
+
 ## 综合
 |资源名称|资源分类|资源描述|
 |-|-|-|
