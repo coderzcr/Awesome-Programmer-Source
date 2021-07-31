@@ -33,6 +33,11 @@
 |[Java 程序员常读书单](https://github.com/itwanger/JavaBooks)|GitHub仓库|Java 程序员常读书单整理，附下载地址，助力构建最强知识体系。但不限于 Java，包括设计模式、计算机网络、操作系统、数据库、数据结构与算法、大数据、架构、面试等等。|
 |[JVM 底层原理最全知识总结](https://github.com/doocs/jvm)|GitHub仓库|这里仅仅记录了一些笔者认为需要重点掌握的 JVM 知识点，如果你想更加全面地了解 JVM 底层原理，可以阅读周志明老师《深入理解 Java 虚拟机——JVM 高级特性与最佳实践(第 2/3 版)》全书。|
 
+## 大数据
+|资源名称|资源分类|资源描述|
+|-|-|-|
+|大数据成神之路|GitHub仓库|专注大数据学习面试，大数据成神之路开启。|
+
 ## 性能调优
 |资源名称|资源分类|资源描述|
 |-|-|-|
@@ -43,7 +48,8 @@
 |-|-|-|
 |[JavaGuide](https://github.com/Snailclimb/JavaGuide)|GitHub仓库|![JavaGuide](picture/20200904101101.png)|
 |[JavaGuide面试突击版](https://github.com/Snailclimb/JavaGuide-Interview)|GitHub仓库|JavaGuide仓库内容全而多，适合有长时间准备的人，JavaGuide面试突击版是为时间不足的面试者准备的。|
-
+|[javaP7](https://github.com/idaSmilence/javaP7)|GitHub仓库|作者凭借着整理的这份资料，加上leetcode刷的将近600道题，一个月的时间内，拿到了蚂蚁金服、快手、拼多多、淘宝、微软等大厂offer|
+|[JavaFamily](https://github.com/AobingJava/JavaFamily)|GitHub仓库|【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。|
 ## 常用工具
 |资源名称|资源分类|资源描述|
 |-|-|-|
