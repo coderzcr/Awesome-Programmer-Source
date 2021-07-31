@@ -78,3 +78,4 @@
 |[程序员应该访问的最佳网站](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)|GitHub仓库|一些对程序员有用的网站|
 |[50 TECH WEBSITES TO FOLLOW IN 2020](https://get.tech/blog/50-tech-websites-to-follow-in-2020/#Best_websites_for_all_things_tech)|聚合网站|🐱‍🏍50个国外的技术网站，适合学习英文、了解国外先进技术|
 |[作为程序员，你关注哪些国外 IT 网站？](https://www.zhihu.com/question/26155575)|聚合网站|国外 IT 网站集合|
+|[互联网公司常用框架源码赏析](https://github.com/doocs/source-code-hunter)|GitHub仓库|“技术深度” 与 “技术广度”是对开发者来说最为重要的两个维度，本项目致力于从源码层面，剖析和挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。|
