@@ -31,6 +31,7 @@
 |[HOW2J](https://how2j.cn/)|教程网站|本站提供Java学习路线，内容基础并带有代码范例，适合初中级Java读者。按照该教程学习做个小项目（毕业设计等）轻轻松松。👌|
 |[JavaWeb源码分享](https://github.com/coderzcr/JavaWeb-Project-Source-Share)|GitHub仓库|🌱🚀分享基于Servlet、SSH、SSM、SpringBoot等流行技术实现的JavaWeb项目。自卖自夸一下，是鄙人收集整理并分享的JavaWeb源码，当前已分享60+的优质源码。|
 |[Java 程序员常读书单](https://github.com/itwanger/JavaBooks)|GitHub仓库|Java 程序员常读书单整理，附下载地址，助力构建最强知识体系。但不限于 Java，包括设计模式、计算机网络、操作系统、数据库、数据结构与算法、大数据、架构、面试等等。|
+|[JVM 底层原理最全知识总结](https://github.com/doocs/jvm)|GitHub仓库|这里仅仅记录了一些笔者认为需要重点掌握的 JVM 知识点，如果你想更加全面地了解 JVM 底层原理，可以阅读周志明老师《深入理解 Java 虚拟机——JVM 高级特性与最佳实践(第 2/3 版)》全书。|
 
 ## 性能调优
 |资源名称|资源分类|资源描述|
