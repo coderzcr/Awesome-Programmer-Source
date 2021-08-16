@@ -32,6 +32,7 @@
 |[JavaWeb源码分享](https://github.com/coderzcr/JavaWeb-Project-Source-Share)|GitHub仓库|🌱🚀分享基于Servlet、SSH、SSM、SpringBoot等流行技术实现的JavaWeb项目。自卖自夸一下，是鄙人收集整理并分享的JavaWeb源码，当前已分享60+的优质源码。|
 |[Java 程序员常读书单](https://github.com/itwanger/JavaBooks)|GitHub仓库|Java 程序员常读书单整理，附下载地址，助力构建最强知识体系。但不限于 Java，包括设计模式、计算机网络、操作系统、数据库、数据结构与算法、大数据、架构、面试等等。|
 |[JVM 底层原理最全知识总结](https://github.com/doocs/jvm)|GitHub仓库|这里仅仅记录了一些笔者认为需要重点掌握的 JVM 知识点，如果你想更加全面地了解 JVM 底层原理，可以阅读周志明老师《深入理解 Java 虚拟机——JVM 高级特性与最佳实践(第 2/3 版)》全书。|
+|[Java 全栈知识体系](https://www.pdai.tech/)|优质网站|你好，我是pdai。你是否也曾对未来迷茫不知方向，也曾每天在碎片化的学习中焦虑，也曾钦羡他人步入高于你的层次?  那么跟随我，结合BAT大厂面试题帮你构筑你自己的知识体系，提升靠技术实现自我价值的概率和掌控力；而往往当你将本文中知识点掌握时，你会发现那些平时高谈阔论的家伙其实都是纸老虎；但你依然要保持谦卑，闻道有先后，术业有专攻，如是而已。@pdai|
 
 ## 大数据
 |资源名称|资源分类|资源描述|
