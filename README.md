@@ -54,8 +54,7 @@
 ## 常用工具
 |资源名称|资源分类|资源描述|
 |-|-|-|
-|[GitHub 文件加速](https://shrill-pond-3e81.hunsh.workers.dev/)|代理网站|该网站是为了解决国内GitHub下载的速度过慢的问题，通过该网站可以快速下载源码|
-|[GitHub代下载服务·永久免费](http://gitd.cc/)|代理网站|该网站是为了解决国内GitHub下载的速度过慢的问题，通过该网站可以快速下载源码|
+|[GitHub 加速下载](http://toolwa.com/github/)|代理网站|该网站是为了解决国内GitHub下载的速度过慢的问题，通过该网站可以快速下载源码|
 |[在线工具秘籍](https://github.com/zhaoolee/OnlineToolsBook)|GitHub仓库|从用户角度出发，「理想的工具应该是无需安装, 打开浏览器即可使用」 也就是所谓的在线工具。为在线工具写一本优质开源中文说明书, 让在线工具造福人类|
 |[谷粒-Chrome插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes)|GitHub仓库|🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~|
 |[鱼塘热榜](https://mo.fish/)|聚合网站|国内外各大热门网站的聚合信息，包括了知乎、微博、虎扑、V2EX、贴吧、Github、抖音、今日头条等等。|
