@@ -63,6 +63,7 @@
 |[excalidraw](https://excalidraw.com/)|工具|一个开源免费的画图软件|
 |[课程搜](https://www.kcsou.com/)|课程聚合|搜课程，搜教程，就来 "课程搜" -- 在线搜课神器|
 |[绝妙的个人生产力](https://github.com/eastlakeside/awesome-productivity-cn)|GitHub仓库|这是一份开放的由中文社区共建的绝妙系列精选资源清单，专注于提升个人生产力的知识方法和工具。|
+|[名校公开课程评价网](https://github.com/conanhujinming/comments-for-awesome-courses)|GitHub仓库|整合大家对于高质量公开课程的评价、总结、与建议等等，期望这些评价能对后来的同学在选择、学习课程的时候能有一些帮助。|
 
 ## 综合
 |资源名称|资源分类|资源描述|
