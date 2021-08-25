@@ -62,6 +62,7 @@
 |[房贷计算器](http://www.baiozhuntuixing.com/)|工具|房贷计算器2021|
 |[excalidraw](https://excalidraw.com/)|工具|一个开源免费的画图软件|
 |[课程搜](https://www.kcsou.com/)|课程聚合|搜课程，搜教程，就来 "课程搜" -- 在线搜课神器|
+|[绝妙的个人生产力](https://github.com/eastlakeside/awesome-productivity-cn)|GitHub仓库|这是一份开放的由中文社区共建的绝妙系列精选资源清单，专注于提升个人生产力的知识方法和工具。|
 
 ## 综合
 |资源名称|资源分类|资源描述|
