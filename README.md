@@ -12,6 +12,9 @@
 |[labuladong 的算法小抄](https://github.com/labuladong/fucking-algorithm)|GitHub仓库|本仓库总共 60 多篇原创文章，都是基于 LeetCode 的题目，涵盖了所有题型和技巧，而且一定要做到举一反三，通俗易懂，绝不是简单的代码堆砌。|
 |[力扣加加](https://github.com/azl397985856/leetcode)|GitHub仓库|![力扣加加](picture/20200907195001.png)|
 |[doocs/leetcode](https://github.com/doocs/leetcode)|GitHub仓库|本项目包含 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》等题目的相关题解。所有题解均由多种编程语言实现，包括但不限于：Java、Python、C++、JavaScript、C#、Go，日常更新。|
+|[leetcode-master](https://github.com/youngyangyang04/leetcode-master)|GitHub仓库|如果你在刷leetcode，强烈建议先按照本攻略刷题顺序来刷，刷完了你会发现对整个知识体系有一个质的飞跃，不用在题海茫然的寻找方向。|
+|[LeetcodeTop](https://github.com/afatcoder/LeetcodeTop)|GitHub仓库|本仓库用于汇总互联网公司技术岗考察Leetcode题目的热度🔥，帮助同学们更加有针对性地准备面试。|
+
 
 ## 设计模式
 |资源名称|资源分类|资源描述|
