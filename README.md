@@ -77,7 +77,7 @@
 |[DMZ社区(IT学习网)](http://www.dmzshequ.com/)|聚合网站|一个最新前沿实用的IT技术学习网站-专注于IT学习资源分享的社区-dmz社区|
 |[吾爱优质资源网](https://www.52yzzy.com/)|聚合网站|吾爱优质资源网-专注于最新最前沿IT编程教程的IT资源分享社区|
 |[程序员相关电子书资料](https://github.com/tangtangcoding/C-C-)|GitHub仓库|程序员相关电子书资料免费分享|
-|[最新 1000 多本计算机电子书免费下载]https://github.com/itdevbooks/pdf)|GitHub仓库|计算机类电子书下载，编程电子书整理下载|
+|[最新 1000 多本计算机电子书免费下载](https://github.com/itdevbooks/pdf)|GitHub仓库|计算机类电子书下载，编程电子书整理下载|
 |[免费程序员书籍汇总](https://github.com/EbookFoundation/free-programming-books/)|GitHub仓库|提供免费的程序员书籍|
 |[计算机书籍汇总](https://github.com/coderzcr/ComputerBooks)|GitHub仓库|提供免费的计算机书籍|
 |[经典的编程书单大全](https://github.com/imarvinle/awesome-cs-books/)|GitHub仓库|这里汇集如下主题的经典书籍： 编程语言(Java、C++、C、Python等等)、操作系统、计算机网络、系统架构、设计模式、程序员数学、测试、中间件、前端开发、后台开发、网络编程、Linux使用及内核、求职面试、**算法与数据结构**、 安卓、IOS、数据库、Redis等主流的编程学习书籍。|
