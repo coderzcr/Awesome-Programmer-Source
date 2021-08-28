@@ -42,6 +42,7 @@
 |资源名称|资源分类|资源描述|
 |-|-|-|
 |[大数据成神之路](https://github.com/wangzhiwubigdata/God-Of-BigData)|GitHub仓库|专注大数据学习面试，大数据成神之路开启。|
+|[大数据入门指南 ⭐](https://github.com/heibaiying/BigData-Notes)|GitHub仓库|大数据入门指南|
 
 ## 性能调优
 |资源名称|资源分类|资源描述|
