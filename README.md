@@ -70,6 +70,7 @@
 |[绝妙的个人生产力](https://github.com/eastlakeside/awesome-productivity-cn)|GitHub仓库|这是一份开放的由中文社区共建的绝妙系列精选资源清单，专注于提升个人生产力的知识方法和工具。|
 |[名校公开课程评价网](https://github.com/conanhujinming/comments-for-awesome-courses)|GitHub仓库|整合大家对于高质量公开课程的评价、总结、与建议等等，期望这些评价能对后来的同学在选择、学习课程的时候能有一些帮助。|
 |[知犀思维导图](https://www.zhixi.com/)|工具|知犀思维导图是一个完全免费的宝藏在线思维导图工具。|
+|[熊猫搜书](https://xmsoushu.com/)|工具|熊猫搜书是一个非常好用的电子书导航网站，一个网站相当于很多个网站。|
 
 ## 综合
 |资源名称|资源分类|资源描述|
