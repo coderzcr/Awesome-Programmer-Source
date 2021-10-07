@@ -1,4 +1,4 @@
-# awesome-programmer-source
+# Awesome-Programmer-Source
 专注分享高质量程序员相关资源，包括优质文章、教程、GitHub（Gitee）仓库、公众号等优质资源
 
 ## 数据结构与算法
@@ -63,6 +63,8 @@
 |[在线工具秘籍](https://github.com/zhaoolee/OnlineToolsBook)|GitHub仓库|从用户角度出发，「理想的工具应该是无需安装, 打开浏览器即可使用」 也就是所谓的在线工具。为在线工具写一本优质开源中文说明书, 让在线工具造福人类|
 |[谷粒-Chrome插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes)|GitHub仓库|🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~|
 |[鱼塘热榜](https://mo.fish/)|聚合网站|国内外各大热门网站的聚合信息，包括了知乎、微博、虎扑、V2EX、贴吧、Github、抖音、今日头条等等。|
+|[今日热榜](https://tophub.today/)|聚合网站|今日热榜提供各站热榜聚合：微信、今日头条、百度、知乎、V2EX、微博、贴吧、豆瓣、天涯、虎扑、Github、抖音...追踪全网热点、简单高效阅读。|
+
 |[华为开源镜像站](https://mirrors.huaweicloud.com/)|镜像网站|解决国外工具下载慢的问题，比如常用的Tomcat、nginx等。|
 |[房贷计算器](http://www.baiozhuntuixing.com/)|工具|房贷计算器2021|
 |[excalidraw](https://excalidraw.com/)|工具|一个开源免费的画图软件|
