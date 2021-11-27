@@ -56,6 +56,8 @@
 |[JavaGuide面试突击版](https://github.com/Snailclimb/JavaGuide-Interview)|GitHub仓库|JavaGuide仓库内容全而多，适合有长时间准备的人，JavaGuide面试突击版是为时间不足的面试者准备的。|
 |[javaP7](https://github.com/idaSmilence/javaP7)|GitHub仓库|作者凭借着整理的这份资料，加上leetcode刷的将近600道题，一个月的时间内，拿到了蚂蚁金服、快手、拼多多、淘宝、微软等大厂offer|
 |[JavaFamily](https://github.com/AobingJava/JavaFamily)|GitHub仓库|【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。|
+|[CodeGuide](https://github.com/fuzhengwei/CodeGuide)|GitHub仓库|📚 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！|
+
 ## 常用工具
 |资源名称|资源分类|资源描述|
 |-|-|-|
