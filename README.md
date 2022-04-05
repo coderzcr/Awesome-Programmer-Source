@@ -81,6 +81,7 @@
 |[名校公开课程评价网](https://github.com/conanhujinming/comments-for-awesome-courses)|GitHub仓库|整合大家对于高质量公开课程的评价、总结、与建议等等，期望这些评价能对后来的同学在选择、学习课程的时候能有一些帮助。|
 |[知犀思维导图](https://www.zhixi.com/)|工具|知犀思维导图是一个完全免费的宝藏在线思维导图工具。|
 |[熊猫搜书](https://xmsoushu.com/)|工具|熊猫搜书是一个非常好用的电子书导航网站，一个网站相当于很多个网站。|
+|[mdnice](https://editor.mdnice.com/)|工具|mdnice 是一款 Markdown 微信编辑器，拥有良好的兼容性、海量主题样式、免费的图床、强大的技术团队，提供文章一键排版，同时支持知乎、掘金、微信订阅号等多个平台。|
 
 ## 综合
 |资源名称|资源分类|资源描述|
