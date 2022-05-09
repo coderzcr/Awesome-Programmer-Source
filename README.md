@@ -54,7 +54,10 @@
 ## 机器学习
 |资源名称|资源分类|资源描述|
 |-|-|-|
-|机器学习科普漫画|优质文章|![力扣加加](picture/20200907195001.png)![力扣加加](picture/20200907195001.png)|
+|[什么是人工智能](https://github.com/coderzcr/Awesome-Programmer-Source/blob/master/picture/%E4%BB%80%E4%B9%88%E6%98%AF%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD.png)|优质文章|漫画版：什么是人工智能|
+|[什么是机器学习](https://github.com/coderzcr/Awesome-Programmer-Source/blob/master/picture/%E4%BB%80%E4%B9%88%E6%98%AF%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.png)|优质文章|漫画版：什么是机器学习|
+|[什么是深度学习](https://github.com/coderzcr/Awesome-Programmer-Source/blob/master/picture/%E4%BB%80%E4%B9%88%E6%98%AF%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.png)|优质文章|漫画版：什么是深度学习|
+|[什么是神经网络](https://github.com/coderzcr/Awesome-Programmer-Source/blob/master/picture/%E4%BB%80%E4%B9%88%E6%98%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.png)|优质文章|漫画版：什么是神经网络|
 
 ## 性能调优
 |资源名称|资源分类|资源描述|
