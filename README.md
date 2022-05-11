@@ -112,4 +112,5 @@
 |[如何成为一名后端开发工程师（附路线图）](https://markdowner.net/article/170940730528129024)|精品文章|现在的 Web 开发与几年前完全不同。有很多新东西让刚进入 Web 领域的开发人员感到很困惑。这也是我决定逐步制作这个直观的指南来展示 Web 概况的原因之一，可以让任何人都清楚他在 Web 开发中所处的角色和必备的条件。|
 |[为什么这么设计系列文章](https://draven.co/whys-the-design/)|优质网站|为什么这么设计（Why’s THE Design）是一系列关于计算机领域中程序设计决策的文章，我们在这个系列的每一篇文章中都会提出一个具体的问题并从不同的角度讨论这种设计的优缺点、对具体实现造成的影响。|
 |[编程自学之路](https://github.com/rd2coding/Road2Coding)|GitHub仓库|本仓库取名 r2coding，即 Road To Coding，意为「编程自学之路」，是自学编程以来所用资源和分享内容的大聚合。|
+|[中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)|GitHub仓库|中文独立博客列表。|
 
