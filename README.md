@@ -96,6 +96,7 @@
 |-|-|-|
 |[编程导航](https://www.code-nav.cn/)|聚合网站|💎 专业的编程导航，帮你找到优质的编程学习资源！|
 |[DMZ社区(IT学习网)](http://www.dmzshequ.com/)|聚合网站|一个最新前沿实用的IT技术学习网站-专注于IT学习资源分享的社区-dmz社区|
+|[阿里云-开发者社区-藏经阁](https://developer.aliyun.com/ebook/index/__0_0_0_6?spm=a2c6h.20345107.ebook-index.35.3a054e64STnXIE#ebook-list)|聚合网站|汇聚阿里巴巴技术实践精华，涵盖云原生、物联网、大数据、AI 等技术领域，深度分享阿里工程师实战经验，顶级技术内容一手掌握。|
 |[吾爱优质资源网](https://www.52yzzy.com/)|聚合网站|吾爱优质资源网-专注于最新最前沿IT编程教程的IT资源分享社区|
 |[程序员相关电子书资料](https://github.com/tangtangcoding/C-C-)|GitHub仓库|程序员相关电子书资料免费分享|
 |[最新 1000 多本计算机电子书免费下载](https://github.com/itdevbooks/pdf)|GitHub仓库|计算机类电子书下载，编程电子书整理下载|
