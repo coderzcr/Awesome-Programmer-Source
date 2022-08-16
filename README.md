@@ -117,4 +117,5 @@
 |[为什么这么设计系列文章](https://draven.co/whys-the-design/)|优质网站|为什么这么设计（Why’s THE Design）是一系列关于计算机领域中程序设计决策的文章，我们在这个系列的每一篇文章中都会提出一个具体的问题并从不同的角度讨论这种设计的优缺点、对具体实现造成的影响。|
 |[编程自学之路](https://github.com/rd2coding/Road2Coding)|GitHub仓库|本仓库取名 r2coding，即 Road To Coding，意为「编程自学之路」，是自学编程以来所用资源和分享内容的大聚合。|
 |[中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)|GitHub仓库|中文独立博客列表。|
+|[Seeseed-无穷尽设计可能](https://www.seeseed.com/)|导航|Seeseed-无穷尽设计可能，为设计师提供国内外最全的设计灵感、设计素材、设计工具、设计教程。|
 
