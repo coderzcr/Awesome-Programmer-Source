@@ -28,6 +28,11 @@
 |畅谈云原生|云原生|[畅谈云原生（上）：云原生应用应该是什么样子？](https://www.infoq.cn/article/fa42rfjv*dygavranfqe)<br>[畅谈云原生（下）：云原生的飞轮理论](https://www.infoq.cn/article/HMizcSG_FgcJKGzkE08L)|
 |[后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)|聚合|后端架构师技术图谱|
 
+## 前端
+|资源名称|资源分类|资源描述|
+|-|-|-|
+|[千古前端图文教程](https://web.qianguyihao.com/)|教程网站|千古前端图文教程，超详细的 Web 前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。持续更新中...。通俗易懂，不懂技术也能学。此前端教程不玩猫腻，不会设置任何套路，因为我相信启蒙的重要性。|
+
 
 ## Java
 |资源名称|资源分类|资源描述|
