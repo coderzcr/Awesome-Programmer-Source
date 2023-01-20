@@ -15,6 +15,7 @@
 |[leetcode-master](https://github.com/youngyangyang04/leetcode-master)|GitHub仓库|如果你在刷leetcode，强烈建议先按照本攻略刷题顺序来刷，刷完了你会发现对整个知识体系有一个质的飞跃，不用在题海茫然的寻找方向。|
 |[LeetcodeTop](https://github.com/afatcoder/LeetcodeTop)|GitHub仓库|本仓库用于汇总互联网公司技术岗考察Leetcode题目的热度🔥，帮助同学们更加有针对性地准备面试。|
 |[令狐冲的算法小抄](https://github.com/ninechapter-algorithm/linghu-algorithm-templete)|GitHub仓库|在面试超过200人以后，看到不少准备了很久的同学，一到coding环节依旧无从下手，刷题刷了个寂寞。我也把自己在做题时的技巧整理成一份Cheatsheet。内容主要根据我面过这么多大厂，和面试过这么多人以后，把高频知识点做了一个总结，并归纳出了算法模板.|
+|[Hello 算法](https://www.hello-algo.com/)|GitHub仓库|一本动画图解、能运行、可提问的数据结构与算法入门书.|
 
 
 ## 设计模式
