@@ -56,6 +56,11 @@
 |[大数据成神之路](https://github.com/wangzhiwubigdata/God-Of-BigData)|GitHub仓库|专注大数据学习面试，大数据成神之路开启。|
 |[大数据入门指南 ⭐](https://github.com/heibaiying/BigData-Notes)|GitHub仓库|大数据入门指南|
 
+## 数据库
+|资源名称|资源分类|资源描述|
+|-|-|-|
+|[简单说说列式存储数据库](https://www.jianshu.com/p/d1114dd4f77a)|优质文章|【NoSQL】简单说说列式存储数据库|
+
 ## 机器学习
 |资源名称|资源分类|资源描述|
 |-|-|-|
