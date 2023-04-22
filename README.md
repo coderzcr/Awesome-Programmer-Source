@@ -132,4 +132,4 @@
 |[中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)|GitHub仓库|中文独立博客列表。|
 |[Seeseed-无穷尽设计可能](https://www.seeseed.com/)|导航|Seeseed-无穷尽设计可能，为设计师提供国内外最全的设计灵感、设计素材、设计工具、设计教程。|
 |[freecodecamp](https://www.freecodecamp.org/)|在线教育|免费学习编程 - Python、JavaScript、Java、Git 等|
-
+|[阿里云开发者社区](https://developer.aliyun.com/?spm=a2c6h.21110250.J_3207526240.2.35525c43nqac7c)|优质网站|阿里云开发者社区覆盖云计算、物联网、大数据、云原生、数据库、人工智能、微服务、安全、开发、运维等技术领域，集合阿里巴巴经济体各个单元技术优势，提供分享、交流、学习、认证、工具、资源、大赛、活动、社群、创业一站式服务能力，满足开发者全生命周期成长需求。|
