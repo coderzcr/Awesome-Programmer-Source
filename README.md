@@ -108,6 +108,7 @@
 |[DeepL翻译](https://www.deepl.com/translator)|工具|DeepL翻译：全世界最准确的翻译|
 |[模板王 - 10000+免费网页模板，网站模板下载大全](http://www.mobanwang.com/)|工具|模板王精选上万个网页模板免费下载，提供html模板、个人网站模板、企业网站模板、DIV+CSS模板、响应式网站模板、手机网站模板等免费网页模板下载大全。|
 |[hideip富强代理](https://hideip.network/)|工具|富强代理。|
+|[Pandora](https://chat1.zhile.io/auth/login?v=5)|工具|潘多拉，一个让你呼吸顺畅的ChatGPT|
 
 ## 综合
 |资源名称|资源分类|资源描述|
