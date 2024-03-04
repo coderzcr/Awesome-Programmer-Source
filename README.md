@@ -34,7 +34,7 @@
 |-|-|-|
 |[千古前端图文教程](https://web.qianguyihao.com/)|教程网站|千古前端图文教程，超详细的 Web 前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。持续更新中...。通俗易懂，不懂技术也能学。此前端教程不玩猫腻，不会设置任何套路，因为我相信启蒙的重要性。|
 |[MDN Web Docs](https://developer.mozilla.org/zh-CN/)|教程网站|Resources for Developers,by Developers|
-
+|[htmlrev](https://htmlrev.com/)|资源网站|1000+免费HTML模板，建站申请|
 
 ## Java
 |资源名称|资源分类|资源描述|
